@@ -6,7 +6,7 @@
     "body": {
         "reason": "airdrop participation",
         "transaction_data": {
-            "contract_address": "0x1C30DC7674e5Fd4f6154152E018b92ff29E66B41",
+            "contract_address": "0xfd5B6545c824173B929611F8ed84b90dc5B2E60c",
             "method_id": "b68967e2",
             "chain_id": 80001,
             "network": "polygon-mumbai"
@@ -22,7 +22,7 @@
                     "context": "https://raw.githubusercontent.com/iden3/claim-schema-vocab/main/schemas/json-ld/kyc-v3.json-ld",
                     "credentialSubject": {
                         "birthday": {
-                            "$lt": 20020101
+                            "$lt": 20040101
                         }
                     },
                     "type": "KYCAgeCredential"
